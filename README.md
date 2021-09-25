@@ -12,6 +12,7 @@ Oh, it's you, you can pass 😅
   [<img src="social-icons/vk.png" height="24"/>](https://vk.com/m_denishchits)
   [<img src="social-icons/instagram.png" height="24"/>](https://www.instagram.com/m_denishchits/)
   [<img src="social-icons/discord.png" height="24"/>](https://discord.com/users/Maxiemar#1920)
+  [<img src="social-icons/gmail.png" height="24"/>](mailto:denishicmihail@gmail.com)
   
 <sub>Icons made by [Pixel Perfect](https://www.flaticon.com/authors/pixel-perfect) from [Flaticon](https://www.flaticon.com/)</sub>
 
