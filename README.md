@@ -5,7 +5,7 @@ Oh, it's you, you can pass 😅
 ### Hi, my name's Misha, I'm a ~~prisoner~~  student of BSUIR ✌️
 
 - 🌱 I’m currently learning **Java** and **C#**
-- 🤔 I’m looking for for job offers as a **Java Intern** or **Junior**
+- 🤔 I’m looking for job offers as a **Java Intern** or **Junior**
 - 📫 Contact me: 
 
   [<img src="social-icons/telegram.png" height=24>](https://t.me/m_denishchits)
