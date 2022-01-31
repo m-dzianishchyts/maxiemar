@@ -8,11 +8,11 @@ Oh, it's you, you can pass 😅
 - 🤔 I’m looking for job offers as a **Java Intern** or **Junior**
 - 📫 Contact me: 
 
-  [<img src="social-icons/telegram.png" height=24>](https://t.me/m_denishchits)
-  [<img src="social-icons/vk.png" height="24"/>](https://vk.com/m_denishchits)
-  [<img src="social-icons/instagram.png" height="24"/>](https://www.instagram.com/m_denishchits/)
+  [<img src="social-icons/telegram.png" height=24>](https://t.me/m_dzianishchyts)
+  [<img src="social-icons/vk.png" height="24"/>](https://vk.com/m_dzianishchyts)
+  [<img src="social-icons/instagram.png" height="24"/>](https://www.instagram.com/m_dzianishchyts/)
   [<img src="social-icons/discord.png" height="24"/>](https://discord.com/users/Maxiemar#1920)
-  [<img src="social-icons/gmail.png" height="24"/>](mailto:denishicmihail@gmail.com)
+  [<img src="social-icons/gmail.png" height="24"/>](mailto:mikhail.dzianishchyts@gmail.com)
   
 <sub>Icons made by [Pixel Perfect](https://www.flaticon.com/authors/pixel-perfect) from [Flaticon](https://www.flaticon.com/)</sub>
 
